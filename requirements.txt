@@ -1,0 +1,14 @@
+# --- Web app framework ---
+streamlit>=1.50
+ 
+# --- Data visualization ---
+plotly>=5.24
+ 
+# --- Data manipulation ---
+pandas>=2.2,<3.0
+ 
+# --- HTTP requests (API fetching) ---
+requests>=2.31,<3.0
+ 
+# --- Environment variables (.env loading) ---
+python-dotenv>=1.0,<2.0
